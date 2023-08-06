@@ -66,5 +66,5 @@ fi
 
 echo "${CRON_TIME} /backup.sh >> /mongo_backup.log 2>&1" > /crontab.conf
 crontab  /crontab.conf
-echo "=> Running cron job"
+echo "=> Running cron job (${CRON_TIME})"
 exec cron -f
