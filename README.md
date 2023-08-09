@@ -1,8 +1,10 @@
 # Docker MongoDB Backup
 
-[![Docker Hub badge][dockerhub-badge]][dockerhub]
+[![Docker hub version badge][dockerhub-version-badge]][dockerhub]
+[![Docker hub pulls badge][dockerhub-pulls-badge]][dockerhub]
 
- [dockerhub-badge]: https://img.shields.io/docker/pulls/cyb3rko/mongodb-backup
+ [dockerhub-version-badge]: https://img.shields.io/docker/v/cyb3rko/mongodb-backup
+ [dockerhub-pulls-badge]: https://img.shields.io/docker/pulls/cyb3rko/mongodb-backup
  [dockerhub]: https://hub.docker.com/repository/docker/cyb3rko/mongodb-backup
 
 - [Example Usage](#example-usage)
